@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# don't commit data
+movies/data/
+
+# don't commit wip directories
+tensorflow/
+
+# don't commit vsc workspace file
+ml-immersion.code-workspace
