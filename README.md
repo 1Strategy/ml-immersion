@@ -1,2 +1,3 @@
 # ml-immersion
-Resources for the ML immersion day conducted by 1Strategy and AWS
+
+This is the Jupyter notebook and all infrastructure-as-code necessary to conduct the ML Immersion day.
