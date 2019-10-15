@@ -112,3 +112,5 @@ tensorflow/
 
 # don't commit vsc workspace file
 ml-immersion.code-workspace
+
+.DS_Store
